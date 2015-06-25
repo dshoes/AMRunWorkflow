@@ -1,0 +1,9 @@
+Package: com.shoes.amrunworkflow
+Name: AMRunWorkflow
+Depends: actionmenu
+Version: 0.1
+Architecture: iphoneos-arm
+Description: ActionMenu + Workflow
+Maintainer: Daniel Hsu
+Author: Daniel Hsu
+Section: System
